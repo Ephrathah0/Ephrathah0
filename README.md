@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently learning on data analytics 
+- 🔭 I’m currently learning data analytics 
 - 🌱 I’m currently a software engineering major.
 - 👯 I’m looking to collaborate on opensource projects
 - 🥅 My goal for 2024 is the become a Data Analyst
